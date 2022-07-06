@@ -6,8 +6,8 @@ const questions = ref([
 	question: 'Welches Tier kann Fliegen?',
 	answer: 1,
 	options: [
-		'Vogel',
 		'Fuchs',
+		'Vogel',
 		'Panda'
 	],
 	selected: null
@@ -16,19 +16,19 @@ const questions = ref([
 	question: 'Welches Land ist das grösste? ',
 	answer: 1,
 	options: [
-		'Russland',
 		'USA',
+		'Russland',
 		'China'
 	],
 	selected: null
   },
   {
 	question: 'Wie lautet Obamas vorname',
-	answer: 3,
+	answer: 1,
 	options: [
 		'Michael',
-		'Jordan',
-		'Barack'
+		'Barack',
+		'Matej'
 	],
 	selected: null
   }
